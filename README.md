@@ -1,6 +1,6 @@
 # LLMs-for-Code-Generation
 
-This project provides an in-depth review of the survey paper ["**Large Language Models (LLMs) for Code Generation: A Survey**](https://arxiv.org/pdf/2503.01245)", published in early 2025. The survey offers a comprehensive look at the rapidly evolving field of using LLMs to automate and assist in software development.
+Review of the survey paper ["**Large Language Models (LLMs) for Code Generation: A Survey**](https://arxiv.org/pdf/2503.01245)", published in early 2025. The survey offers a comprehensive look at the rapidly evolving field of using LLMs to automate and assist in software development.
 
 ## Key Insights
 
@@ -33,6 +33,6 @@ The survey, and consequently this review, cover several crucial aspects of LLMs 
 
 
 
-* **Medium Article:** [LLMs For Code Generation](https://www.youtube.com/playlist?list=PLCGwaUpxPWO08WLWRDann-tFL3kTtGwJB)
+* **Medium Article:** [LLMs For Code Generation](https://medium.com/@hvr2026/llms-for-code-generation-4455a8c335c6)
 * **Slides:** [LLMs For Code Generation](https://www.youtube.com/playlist?list=PLCGwaUpxPWO08WLWRDann-tFL3kTtGwJB)
 * **Youtube Video:** [LLMs For Code Generation](https://www.youtube.com/playlist?list=PLCGwaUpxPWO08WLWRDann-tFL3kTtGwJB)
