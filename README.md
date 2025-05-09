@@ -34,5 +34,5 @@ The survey, and consequently this review, cover several crucial aspects of LLMs 
 
 
 * **Medium Article:** [LLMs For Code Generation](https://medium.com/@hvr2026/llms-for-code-generation-4455a8c335c6)
-* **Slides:** [LLMs For Code Generation](https://www.youtube.com/playlist?list=PLCGwaUpxPWO08WLWRDann-tFL3kTtGwJB)
+* **Slides:** [LLMs For Code Generation](https://www.scribd.com/document/859400295/LLM-s-for-Code-Generation)
 * **Youtube Video:** [LLMs For Code Generation](https://www.youtube.com/playlist?list=PLCGwaUpxPWO08WLWRDann-tFL3kTtGwJB)
